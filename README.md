@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @shentianquan-nreal
-- 👀 I’m interested in CV . AR . OS . ..
-- 🌱 I’m currently learning Camera calibration.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm interested in CV . AR . OS . ..
+- 🌱 I'm currently learning Camera calibration.
+- 💞️ I' looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
